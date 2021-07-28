@@ -1,6 +1,6 @@
 # atmacup11
 ## これは何か
-- atmacup9にて使用したコード類をまとめました。
+- atmacup11にて使用したコード類をまとめました。
 
 ## コンペ概要
 - [絵画の年代予測](https://www.guruguru.science/competitions/17/)
